@@ -1,1 +1,1 @@
-print("test")
+require("jmc.init")
